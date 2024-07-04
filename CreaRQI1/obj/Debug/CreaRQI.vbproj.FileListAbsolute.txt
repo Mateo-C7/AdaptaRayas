@@ -1,0 +1,11 @@
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\bin\Debug\CreaRQI.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\bin\Debug\CreaRQI.pdb
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\bin\Debug\CreaRQI.xml
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.vbprojResolveAssemblyReference.cache
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.Resources.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.vbproj.GenerateResource.Cache
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.xml
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.pdb
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI\obj\Debug\CreaRQI.Form1.resources

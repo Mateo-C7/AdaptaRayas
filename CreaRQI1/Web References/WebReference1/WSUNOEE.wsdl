@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CrearConexionXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pvstrxmlConexion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CrearConexionXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CrearConexionXMLResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EjecutarConsultaXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pvstrxmlParametros" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EjecutarConsultaXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EjecutarConsultaXMLResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerEsquemaParametros">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pvstrxmlParametros" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerEsquemaParametrosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeerEsquemaParametrosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportarXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pvstrDatos" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="printTipoError" type="s:short" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportarXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportarXMLResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="1" maxOccurs="1" name="printTipoError" type="s:short" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SiesaWEBContabilizar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pvstrParametros" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SiesaWEBContabilizarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SiesaWEBContabilizarResult" type="s:short" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="boolean" type="s:boolean" />
+      <s:element name="DataSet" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:element ref="s:schema" />
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="short" type="s:short" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CrearConexionXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:CrearConexionXML" />
+  </wsdl:message>
+  <wsdl:message name="CrearConexionXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:CrearConexionXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:EjecutarConsultaXML" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:EjecutarConsultaXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosSoapIn">
+    <wsdl:part name="parameters" element="tns:LeerEsquemaParametros" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosSoapOut">
+    <wsdl:part name="parameters" element="tns:LeerEsquemaParametrosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportarXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportarXML" />
+  </wsdl:message>
+  <wsdl:message name="ImportarXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportarXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarSoapIn">
+    <wsdl:part name="parameters" element="tns:SiesaWEBContabilizar" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarSoapOut">
+    <wsdl:part name="parameters" element="tns:SiesaWEBContabilizarResponse" />
+  </wsdl:message>
+  <wsdl:message name="CrearConexionXMLHttpGetIn">
+    <wsdl:part name="pvstrxmlConexion" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CrearConexionXMLHttpGetOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLHttpGetIn">
+    <wsdl:part name="pvstrxmlParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosHttpGetIn">
+    <wsdl:part name="pvstrxmlParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarHttpGetIn">
+    <wsdl:part name="pvstrParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarHttpGetOut">
+    <wsdl:part name="Body" element="tns:short" />
+  </wsdl:message>
+  <wsdl:message name="CrearConexionXMLHttpPostIn">
+    <wsdl:part name="pvstrxmlConexion" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CrearConexionXMLHttpPostOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLHttpPostIn">
+    <wsdl:part name="pvstrxmlParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarConsultaXMLHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosHttpPostIn">
+    <wsdl:part name="pvstrxmlParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="LeerEsquemaParametrosHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarHttpPostIn">
+    <wsdl:part name="pvstrParametros" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SiesaWEBContabilizarHttpPostOut">
+    <wsdl:part name="Body" element="tns:short" />
+  </wsdl:message>
+  <wsdl:portType name="WSUNOEESoap">
+    <wsdl:operation name="CrearConexionXML">
+      <wsdl:input message="tns:CrearConexionXMLSoapIn" />
+      <wsdl:output message="tns:CrearConexionXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <wsdl:input message="tns:EjecutarConsultaXMLSoapIn" />
+      <wsdl:output message="tns:EjecutarConsultaXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <wsdl:input message="tns:LeerEsquemaParametrosSoapIn" />
+      <wsdl:output message="tns:LeerEsquemaParametrosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportarXML">
+      <wsdl:input message="tns:ImportarXMLSoapIn" />
+      <wsdl:output message="tns:ImportarXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <wsdl:input message="tns:SiesaWEBContabilizarSoapIn" />
+      <wsdl:output message="tns:SiesaWEBContabilizarSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="WSUNOEEHttpGet">
+    <wsdl:operation name="CrearConexionXML">
+      <wsdl:input message="tns:CrearConexionXMLHttpGetIn" />
+      <wsdl:output message="tns:CrearConexionXMLHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <wsdl:input message="tns:EjecutarConsultaXMLHttpGetIn" />
+      <wsdl:output message="tns:EjecutarConsultaXMLHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <wsdl:input message="tns:LeerEsquemaParametrosHttpGetIn" />
+      <wsdl:output message="tns:LeerEsquemaParametrosHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <wsdl:input message="tns:SiesaWEBContabilizarHttpGetIn" />
+      <wsdl:output message="tns:SiesaWEBContabilizarHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="WSUNOEEHttpPost">
+    <wsdl:operation name="CrearConexionXML">
+      <wsdl:input message="tns:CrearConexionXMLHttpPostIn" />
+      <wsdl:output message="tns:CrearConexionXMLHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <wsdl:input message="tns:EjecutarConsultaXMLHttpPostIn" />
+      <wsdl:output message="tns:EjecutarConsultaXMLHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <wsdl:input message="tns:LeerEsquemaParametrosHttpPostIn" />
+      <wsdl:output message="tns:LeerEsquemaParametrosHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <wsdl:input message="tns:SiesaWEBContabilizarHttpPostIn" />
+      <wsdl:output message="tns:SiesaWEBContabilizarHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSUNOEESoap" type="tns:WSUNOEESoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CrearConexionXML">
+      <soap:operation soapAction="http://tempuri.org/CrearConexionXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <soap:operation soapAction="http://tempuri.org/EjecutarConsultaXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <soap:operation soapAction="http://tempuri.org/LeerEsquemaParametros" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportarXML">
+      <soap:operation soapAction="http://tempuri.org/ImportarXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <soap:operation soapAction="http://tempuri.org/SiesaWEBContabilizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSUNOEESoap12" type="tns:WSUNOEESoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CrearConexionXML">
+      <soap12:operation soapAction="http://tempuri.org/CrearConexionXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <soap12:operation soapAction="http://tempuri.org/EjecutarConsultaXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <soap12:operation soapAction="http://tempuri.org/LeerEsquemaParametros" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportarXML">
+      <soap12:operation soapAction="http://tempuri.org/ImportarXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <soap12:operation soapAction="http://tempuri.org/SiesaWEBContabilizar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSUNOEEHttpGet" type="tns:WSUNOEEHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="CrearConexionXML">
+      <http:operation location="/CrearConexionXML" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <http:operation location="/EjecutarConsultaXML" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <http:operation location="/LeerEsquemaParametros" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <http:operation location="/SiesaWEBContabilizar" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSUNOEEHttpPost" type="tns:WSUNOEEHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="CrearConexionXML">
+      <http:operation location="/CrearConexionXML" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarConsultaXML">
+      <http:operation location="/EjecutarConsultaXML" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerEsquemaParametros">
+      <http:operation location="/LeerEsquemaParametros" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SiesaWEBContabilizar">
+      <http:operation location="/SiesaWEBContabilizar" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSUNOEE">
+    <wsdl:port name="WSUNOEESoap" binding="tns:WSUNOEESoap">
+      <soap:address location="http://172.21.0.8/WSUNOEE/WSUNOEE.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSUNOEESoap12" binding="tns:WSUNOEESoap12">
+      <soap12:address location="http://172.21.0.8/WSUNOEE/WSUNOEE.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSUNOEEHttpGet" binding="tns:WSUNOEEHttpGet">
+      <http:address location="http://172.21.0.8/WSUNOEE/WSUNOEE.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSUNOEEHttpPost" binding="tns:WSUNOEEHttpPost">
+      <http:address location="http://172.21.0.8/WSUNOEE/WSUNOEE.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

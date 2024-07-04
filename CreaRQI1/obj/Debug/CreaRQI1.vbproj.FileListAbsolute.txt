@@ -1,0 +1,362 @@
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbprojResolveAssemblyReference.cache
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form1.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.Cache
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form2.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form3.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll.config
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\Interop.MSXML2.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form4.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\accoremgd.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\acdbmgd.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\acmgd.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form5.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form6.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form7.resources
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\AdWindows.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\AcTcMgd.dll
+C:\Users\hugogomez\Documents\Visual Studio 2013\Projects\CreaRQI1\CreaRQI1\bin\Debug\AcCui.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form1.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form2.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form3.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form4.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form5.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form6.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form7.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form8.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form9.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll.config
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\accoremgd.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\acdbmgd.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\acmgd.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.dll
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbprojAssemblyReference.cache
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll.config
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\accoremgd.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\acdbmgd.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\acmgd.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form1.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form2.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form3.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form4.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form5.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form6.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form7.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form8.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form9.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.dll
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form10.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form11.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form12.resources
+C:\Users\hugogomez\OneDrive - Forsa S.A\VB y SQL\backup\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll.config
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form1.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form10.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form11.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form12.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form2.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form3.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form4.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form5.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form6.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form7.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form8.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Form9.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.dll
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+C:\Users\mateocuellar\Desktop\Carga_SIIF_Definitivo\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll.config
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.dll
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.dll
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\PRODESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe
+D:\DESA\WinF\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\Acdbmgd.dll
+D:\DESA\WinF\pruebas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\accoremgd.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\ClosedXML.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\ExcelNumberFormat.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\Irony.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\SixLabors.Fonts.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Buffers.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.IO.Packaging.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Memory.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Numerics.Vectors.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\XLParser.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\ClosedXML.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\ExcelNumberFormat.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\SixLabors.Fonts.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Buffers.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.IO.Packaging.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Memory.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Numerics.Vectors.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.SuggestedBindingRedirects.cache
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CopyComplete
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\carga_siif\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\ClosedXML.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\ExcelNumberFormat.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\Irony.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\SixLabors.Fonts.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Buffers.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.IO.Packaging.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Memory.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Numerics.Vectors.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\XLParser.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\ClosedXML.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\ExcelNumberFormat.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\SixLabors.Fonts.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Buffers.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.IO.Packaging.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Memory.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Numerics.Vectors.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.SuggestedBindingRedirects.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.vbproj.Up2Date
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\CreaRQI1\obj\Debug\CreaRQI1.pdb
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\CreaRQI1.pdb
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\ClosedXML.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\ExcelNumberFormat.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\Irony.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\SixLabors.Fonts.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Buffers.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.IO.Packaging.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Memory.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Numerics.Vectors.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\XLParser.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\ClosedXML.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\ExcelNumberFormat.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\SixLabors.Fonts.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Buffers.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.IO.Packaging.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Memory.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Numerics.Vectors.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.AssemblyReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.SuggestedBindingRedirects.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.exe.config
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\Interop.ADODB.dll
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.ResolveComReference.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_CargaListados.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_CorrecionListado.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_FormaletaRecMuro.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_GrupoPlanta.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_CalculaDisponibles.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_GenerarRQI.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_Login.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_InventERP.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_ListFormaletas.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_Login_2.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_BarraCarga.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_Prueba.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Frm_SeleccionarPlantaACC.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.Resources.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI.CreaRQI.MyCommands.resources
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.GenerateResource.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.CoreCompileInputs.cache
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.vbproj.Up2Date
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.exe
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.xml
+D:\DESA\WinF\adaptarayas-carga_siif\AdaptaRayas\CreaRQI1\prueba\CreaRQI1\obj\Debug\CreaRQI1.pdb
