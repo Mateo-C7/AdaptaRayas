@@ -13,6 +13,7 @@ Public Class Frm_ListFormaletas
     Dim combinar As Boolean = False
     Dim primercombi As Boolean = True
     Dim listacombi(,) As String
+    Dim listacombicliente As New List(Of String)()
     'Dim cadenaconexion = "data source = 172.21.224.130 ; persist security info=False;initial catalog = forsa ; user id=forsa; password=forsa2006 "
     Public cadenaconexion As String = ConexionBD.getStringConexion()
     Private Sub ComboBox4_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cboTipoOrden.SelectedIndexChanged
@@ -270,7 +271,7 @@ Public Class Frm_ListFormaletas
         End If
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btnDescargarListado.Click
+    Private Sub btnDescargarListado_Click(sender As Object, e As EventArgs) Handles btnDescargarListado.Click
 
         If cboNumOrden.Text Is Nothing Then
             MessageBox.Show("Seleccione una Orden para generar el Listado")
@@ -889,8 +890,8 @@ Public Class Frm_ListFormaletas
 
         End If
 
-        'Si solo Formaletas esta seleccionado
-        If ListAlum = True And ListAcc = False Then
+        'Si solo Formaletas esta seleccionado y es una sola orden
+        If ListAlum = True And ListAcc = False And listacombicliente.Count = 0 Then
 
             dt = Ord.ConsultarListadoClienteAlum(NumOrden)
 
@@ -905,8 +906,8 @@ Public Class Frm_ListFormaletas
 
         End If
 
-        'Si solo Accesorios esta seleccionado
-        If ListAlum = False And ListAcc = True Then
+        'Si solo Accesorios esta seleccionado y es una sola orden
+        If ListAlum = False And ListAcc = True And listacombicliente.Count = 0 Then
 
             dt = Ord.ConsultarListadoClienteACC(NumOrden)
 
@@ -918,6 +919,38 @@ Public Class Frm_ListFormaletas
             End If
 
             Util.ProExportarExcelSimple(dt, "Listado Compilado Orden " & NumOrden, InitialDirectory)
+
+        End If
+
+        'Si solo Formaletas esta seleccionado y hay mas de una orden
+        If ListAlum = True And ListAcc = False And listacombicliente.Count > 0 Then
+
+            dt = Ord.ConsultarListadoClienteAlumCombi(listacombicliente)
+
+            If dt Is Nothing Then
+
+                MessageBox.Show("No se encontraron Registros")
+                Return
+
+            End If
+
+            Util.ProExportarExcelSimple(dt, "Listado Combinado y Compilado Orden " & NumOrden, InitialDirectory)
+
+        End If
+
+        'Si solo Accesorios esta seleccionado y hay mas de una orden
+        If ListAlum = False And ListAcc = True And listacombicliente.Count > 0 Then
+
+            dt = Ord.ConsultarListadoClienteACCombi(listacombicliente)
+
+            If dt Is Nothing Then
+
+                MessageBox.Show("No se encontraron Registros")
+                Return
+
+            End If
+
+            Util.ProExportarExcelSimple(dt, "Listado Combinado y Compilado Orden " & NumOrden, InitialDirectory)
 
         End If
 
@@ -938,7 +971,7 @@ Public Class Frm_ListFormaletas
         Return RemoveXtraSpaces
 
     End Function
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub btnDescYAdapta_Click(sender As Object, e As EventArgs) Handles btnDescYAdapta.Click
         combinar = False
         If checkStockERP.Checked = True Then
             descargalistaERP(True)
@@ -1015,14 +1048,25 @@ Public Class Frm_ListFormaletas
         DataGridView1.Rows.Item(7).DefaultCellStyle.BackColor = System.Drawing.Color.LightGray
     End Sub
 
-    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+    Private Sub btnCombinar_Click(sender As Object, e As EventArgs) Handles btnCombinar.Click
+
+        If cboNumOrden.Text Is Nothing Then
+            MessageBox.Show("Seleccione una Orden para generar el Listado")
+            Return
+        End If
 
         combinar = True
+
         If checkStockERP.Checked = True Then
             descargalistaERP(False)
+        ElseIf checkCliente.Checked = True Then
+            'Vamos capturano las ordenes que el usuario desea combinar
+            listacombicliente.Add(cboNumOrden.Text)
+            MessageBox.Show("Orden " & cboNumOrden.Text & " Seleccionada para combinar para Cliente ")
         Else
             descargalista(False)
         End If
+
     End Sub
 
     Sub llenacomboTipoOrden()

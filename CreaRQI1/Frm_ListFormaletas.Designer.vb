@@ -33,13 +33,13 @@ Partial Class Frm_ListFormaletas
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.CheckSoloFM = New System.Windows.Forms.CheckBox()
         Me.CheckSoloAcc = New System.Windows.Forms.CheckBox()
-        Me.Button2 = New System.Windows.Forms.Button()
+        Me.btnDescYAdapta = New System.Windows.Forms.Button()
         Me.checkStockERP = New System.Windows.Forms.CheckBox()
         Me.CheckBox4 = New System.Windows.Forms.CheckBox()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Column1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Column2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.btnCombinar = New System.Windows.Forms.Button()
         Me.checkCliente = New System.Windows.Forms.CheckBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -137,14 +137,14 @@ Partial Class Frm_ListFormaletas
         Me.CheckSoloAcc.Text = "Acc"
         Me.CheckSoloAcc.UseVisualStyleBackColor = True
         '
-        'Button2
+        'btnDescYAdapta
         '
-        Me.Button2.Location = New System.Drawing.Point(183, 40)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(140, 38)
-        Me.Button2.TabIndex = 32
-        Me.Button2.Text = "Descarga y Adapta"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.btnDescYAdapta.Location = New System.Drawing.Point(183, 40)
+        Me.btnDescYAdapta.Name = "btnDescYAdapta"
+        Me.btnDescYAdapta.Size = New System.Drawing.Size(140, 38)
+        Me.btnDescYAdapta.TabIndex = 32
+        Me.btnDescYAdapta.Text = "Descarga y Adapta"
+        Me.btnDescYAdapta.UseVisualStyleBackColor = True
         '
         'checkStockERP
         '
@@ -195,14 +195,14 @@ Partial Class Frm_ListFormaletas
         Me.Column2.Name = "Column2"
         Me.Column2.Width = 125
         '
-        'Button3
+        'btnCombinar
         '
-        Me.Button3.Location = New System.Drawing.Point(334, 100)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(85, 38)
-        Me.Button3.TabIndex = 36
-        Me.Button3.Text = "Combinar"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.btnCombinar.Location = New System.Drawing.Point(334, 100)
+        Me.btnCombinar.Name = "btnCombinar"
+        Me.btnCombinar.Size = New System.Drawing.Size(85, 38)
+        Me.btnCombinar.TabIndex = 36
+        Me.btnCombinar.Text = "Combinar"
+        Me.btnCombinar.UseVisualStyleBackColor = True
         '
         'checkCliente
         '
@@ -219,11 +219,11 @@ Partial Class Frm_ListFormaletas
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.ClientSize = New System.Drawing.Size(494, 347)
         Me.Controls.Add(Me.checkCliente)
-        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.btnCombinar)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.CheckBox4)
         Me.Controls.Add(Me.checkStockERP)
-        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.btnDescYAdapta)
         Me.Controls.Add(Me.CheckSoloAcc)
         Me.Controls.Add(Me.CheckSoloFM)
         Me.Controls.Add(Me.ChekRayas)
@@ -255,12 +255,12 @@ Partial Class Frm_ListFormaletas
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents CheckSoloFM As System.Windows.Forms.CheckBox
     Friend WithEvents CheckSoloAcc As System.Windows.Forms.CheckBox
-    Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents btnDescYAdapta As System.Windows.Forms.Button
     Friend WithEvents checkStockERP As System.Windows.Forms.CheckBox
     Friend WithEvents CheckBox4 As Windows.Forms.CheckBox
     Friend WithEvents DataGridView1 As Windows.Forms.DataGridView
     Friend WithEvents Column1 As Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents Column2 As Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Button3 As Windows.Forms.Button
+    Friend WithEvents btnCombinar As Windows.Forms.Button
     Friend WithEvents checkCliente As Windows.Forms.CheckBox
 End Class

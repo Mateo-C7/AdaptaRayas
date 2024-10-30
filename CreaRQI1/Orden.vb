@@ -280,6 +280,63 @@ Public Class Orden
 
     End Function
 
+    Public Function ConsultarListadoClienteAlumCombi(ByVal NumOrdenes As List(Of String)) As DataTable
+
+        Dim dt As DataTable = Nothing
+        Dim Ordenes As String = " "
+
+        If NumOrdenes.Count > 0 Then
+
+            'La primera orden
+            Ordenes = "O.ofa LIKE '%" & NumOrdenes(0) & "%' "
+            'El resto de ordenes
+            For i As Integer = 1 To NumOrdenes.Count - 1
+                Ordenes += "OR O.Ofa LIKE '%" & NumOrdenes(i) & "%' "
+            Next
+            'Nota: se separa de esta manera para facilitar el contatenamiento del resto de ordenes ya que si uso WHERE (1=1) y los OR la consulta se queda pegada
+        End If
+
+        Dim sql As String = "SELECT SUM(ISNULL(MD.Memo_DetCantPFin, S.cant)) AS Cant, " &
+                            "S.Tipo  AS Descripcion, S.Observacion AS 'Observacion',  " &
+                            "S.Anc1  AS 'Ancho 1', " &
+                            "S.alto1 AS 'Alto 1',  " &
+                            "S.Alto2 As 'Alto 2',  " &
+                            "S.Anc2  AS 'Ancho 2', " &
+                            "CASE WHEN S.Plano_esp = '1'THEN 'P' ELSE '' END AS Plano, " &
+                            " '', '', " &
+                            "I.Nombre + ' '+ ISNULL(PF.Observacion,'') AS 'Refencia Alum' " &
+                            "FROM Explo_Saldos As ES WITH (NOLOCK) " &
+                            "INNER JOIN Formaleta_Lib_Inv AS FLI WITH (NOLOCK) ON ES.Explo_Lib_Id = FLI.Formaleta_Lib_Inv_Id " &
+                            "RIGHT OUTER JOIN Saldos AS S With (NOLOCK) " &
+                            "INNER JOIN Orden AS O WITH (NOLOCK) ON S.Id_Ofa = O.Id_Ofa ON ES.Saldos_Id = S.Identificador " &
+                            "LEFT OUTER JOIN Memos AS M WITH (NOLOCK) INNER JOIN Memo_Det AS MD WITH (NOLOCK) ON M.Id_Memo = MD.Id_MemoId ON S.Ult_Memo = M.Memo_No " &
+                            "AND S.Identificador = MD.Memo_DetIdSaldosOri " &
+                            "INNER JOIN Piezas_Forsa AS PF WITH(NOLOCK) ON PF.Id_Piezas = S.Id_Piezas_Forsa " &
+                            "INNER JOIN Items AS I WITH(NOLOCK) ON I.Id_Item = PF.Id_Item " &
+                            "WHERE " &
+                            Ordenes & " " &
+                            "AND   (S.Anula = 0) " &
+                            "AND   (PF.Anulado = 0) " &
+                            "GROUP BY Descripcion,S.Tipo, S.Observacion, S.Anc1 , S.alto1 , S.Alto2 , S.Anc2, S.Plano_esp,S.Grupo, I.Nombre, PF.Observacion " &
+                            "ORDER BY S.Descripcion "
+        Try
+
+            dt = Conn.CargarTabla(sql)
+
+        Catch ex As Exception
+
+            Conn.RegistraExcepcion("SYS", "Orden.ConsultarListadoClienteAlum", ex.ToString(), sql)
+
+        End Try
+
+        Return dt
+
+    End Function
+
+    Public Function ConsultarListadoClienteACCombi(ByVal NumOrdenes As List(Of String)) As DataTable
+
+    End Function
+
     Public Sub Reset()
         Me.IdPlanta = 0
         Me.IdOfa = 0
