@@ -665,7 +665,10 @@ Public Class Frm_ListFormaletas
                 '"ORDER BY Orden.Ofa, Of_Accesorios.No_Item"
 
                 'Actualizado
-                Dim Cons As String = "SELECT DISTINCT ISNULL(Memo_Acc_Det.Memo_Acc_Cant_Fin, Of_Accesorios.Cant_Req) AS Cant_Req, " +
+                Dim Cons As String = "SELECT DISTINCT " +
+                "CASE " +
+                "WHEN Memo_Acc_Det.Memo_Acc_Cant_Fin = 0 THEN Of_Accesorios.Cant_Req " +  'ISNULL(Memo_Acc_Det.Memo_Acc_Cant_Fin, Of_Accesorios.Cant_Req) AS Cant_Req,
+                "ELSE ISNULL(Memo_Acc_Det.Memo_Acc_Cant_Fin,Of_Accesorios.Cant_Req) END AS Cant_Req, " +
                 "CASE " +
                 "WHEN Of_Accesorios.Nomenclatura != '' THEN Of_Accesorios.Nomenclatura " + 'Se ajusta esta linea por los negativos, invirtiendo el orden por la linea siguiente
                 "WHEN Accesorios_Codigos.Nomenclatura !='' THEN Accesorios_Codigos.Nomenclatura " +

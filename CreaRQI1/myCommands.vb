@@ -2222,9 +2222,9 @@ Namespace CreaRQI
                          "Orden_Seg WITH (nolock) ON Orden.Id_Of_P = Orden_Seg.Id_Ofa LEFT OUTER JOIN " +
                          "Accesorios_Codigos WITH (nolock) ON Of_Accesorios.Id_UnoE = Accesorios_Codigos.Id_UnoE AND Orden.planta_id = Accesorios_Codigos.planta_id " +
                         "WHERE (RTRIM(Orden_Seg.Num_Of) + '-' + RTRIM(Orden_Seg.Ano_Of) = '" & numofa & "') 
-                        AND (Orden.Tipo_Of <> 'FP' AND Orden.Tipo_Of <> 'OF') 
+                        AND (Orden.Tipo_Of <> 'FP') AND (Orden.Tipo_Of <> 'OF') 
                         AND (Orden.Tipo_Of <> 'PR') AND (Orden.Tipo_Of <> 'F4') 
-                        AND (Orden.Tipo_Of <> 'CT') " +
+                        AND (Orden.Tipo_Of <> 'CT') AND (Orden.Tipo_Of <> 'IO') " +
                         "ORDER BY Ofa, Of_Accesorios.No_Item"
             Using connection As New SqlConnection(Str_Con_Bd)
                 Dim command As SqlCommand = New SqlCommand(cons, connection)
